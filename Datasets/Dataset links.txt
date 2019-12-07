@@ -1,0 +1,9 @@
+https://anero.id/energy/wind-energy
+
+
+http://www.nemweb.com.au/REPORTS/CURRENT/Dispatch_SCADA/
+
+LIVE DATASET:
+
+http://www.elia.be/en/grid-data/power-generation/wind-power
+
